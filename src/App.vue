@@ -335,7 +335,7 @@ function clearForm() {
     line-height: 100%;
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1024px) {
     main {
         background-color: var(--slate100);
         display: flex;
