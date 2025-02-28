@@ -403,6 +403,7 @@ function clearForm() {
     .footer {
         flex: 1;
         max-width: 31.5rem;
+        place-content: center;
         background-color: var(--slate900);
         border-top-right-radius: 1.5rem;
         border-bottom-right-radius: 1.5rem;
